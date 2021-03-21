@@ -1,4 +1,6 @@
-dadageek 181
+###Use [this](https://github.com/BleepLabs/Serial_flash_sampler_for_Teensy_Audio) instead  
+
+For dadageek 181
 
 1 - Upload new libraries
 We need to replace two libraries with modified versions. We can’t use “add zip library” unfortunately.
